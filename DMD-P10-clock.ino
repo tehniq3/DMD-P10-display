@@ -58,8 +58,6 @@ int minutant = 0;
 byte minut1 = 0;
 byte minut2 = 0;
 
-#define pwm 9 // try to control brigtness
-
 #if defined(ARDUINO_ARCH_SAMD)
 // for Zero, output on USB Serial console, remove line below if using programming port to program the Zero!
    #define Serial SerialUSB
@@ -114,9 +112,6 @@ void setup(void)
     // rtc.adjust(DateTime(2014, 1, 21, 3, 0, 0));
   }
    //   rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));  // MANUAL ADJUST
-
-   pinMode(pwm, OUTPUT);
-   analogWrite(pwm, 10);
 }
 
 /*--------------------------------------------------------------------------------------
