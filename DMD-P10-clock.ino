@@ -54,7 +54,7 @@ int ora = 0;
 byte ora1 = 0;
 byte ora2 = 0;
 int minut = 0;
-int minutant = 0;
+int minutant = 70;
 byte minut1 = 0;
 byte minut2 = 0;
 
