@@ -2,8 +2,7 @@
 
 my articles:
 
-- 
-http://nicuflorica.blogspot.com/2020/01/ceas-pe-afisaj-p10-cu-32x16-leduri.html
+- http://nicuflorica.blogspot.com/2020/01/ceas-pe-afisaj-p10-cu-32x16-leduri.html
 
 - https://nicuflorica.blogspot.com/2020/01/ceas-cu-data-pe-afisaj-p10-cu-32x16.html
 
