@@ -1,4 +1,12 @@
 # DMD-P10-display
+
+my articles:
+
+- 
+http://nicuflorica.blogspot.com/2020/01/ceas-pe-afisaj-p10-cu-32x16-leduri.html
+
+- etc
+
 use library from https://www.freetronics.com.au/pages/using-your-freetronics-dmd#.WxrK3UiFOM8
 
 ![ceas3](https://1.bp.blogspot.com/-RRbPAMvk4WE/XhTeEcKNGlI/AAAAAAAAbJ8/JHZ3KpLZrKkVWpyYyLEB-EYDxjt6FOsQwCLcBGAsYHQ/s1600/IMG_20200107_213142.jpg)
