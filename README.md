@@ -5,7 +5,8 @@ my articles:
 - 
 http://nicuflorica.blogspot.com/2020/01/ceas-pe-afisaj-p10-cu-32x16-leduri.html
 
-- etc
+- https://nicuflorica.blogspot.com/2020/01/ceas-cu-data-pe-afisaj-p10-cu-32x16.html
+
 
 use library from https://www.freetronics.com.au/pages/using-your-freetronics-dmd#.WxrK3UiFOM8
 
