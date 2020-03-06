@@ -8,6 +8,8 @@ my articles:
 
 - https://nicuflorica.blogspot.com/2020/01/ceas-cu-reglaj-pe-afisaj-p10-de-32x16.html
 
+- https://nicuflorica.blogspot.com/2020/03/ceas-cu-reglaj-pe-afisaj-p10-de-32x16.html
+
 
 use library from https://www.freetronics.com.au/pages/using-your-freetronics-dmd#.WxrK3UiFOM8
 
