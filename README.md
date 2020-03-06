@@ -20,3 +20,11 @@ use library from https://www.freetronics.com.au/pages/using-your-freetronics-dmd
 ![schematic](https://1.bp.blogspot.com/-H_Eiyznd8UU/XhGzxGf3r0I/AAAAAAAAbJE/L_kHlt3UqnEHtE6KqvL18CAgLx--tZYLQCLcBGAsYHQ/s1600/Project%2B19_2.jpg)
 
 base schematic taken from http://basicarduinotutorial.blogspot.com/2017/08/project-i-19-digital-clock-using-led.html
+
+![hour_adjust](https://1.bp.blogspot.com/-_HnjIj5kwT0/XmKqkxa0y4I/AAAAAAAAbfI/g2mOw0LdpbUU3zZvVnmfj7euul7YjWOQgCLcBGAsYHQ/s1600/reglaj_ora.jpg)
+
+![minute_adjust](https://1.bp.blogspot.com/-BBB1myYwRBg/XmKqqUSGtoI/AAAAAAAAbfM/Im1xcO-kDbs-Bmz3cXWk0JP6ngkkGiO5QCLcBGAsYHQ/s1600/reglaj_minute.jpg)
+
+![year_adjust](https://1.bp.blogspot.com/-bhgxLemGeW0/XmKrAEXxG0I/AAAAAAAAbfk/uIA6upsnJpgyvL4LV9endgHX6f-rTsf5ACLcBGAsYHQ/s1600/reglaj_an.jpg)
+
+![month_adjust](https://1.bp.blogspot.com/-irwW2pbGAAk/XmKqxKvEMEI/AAAAAAAAbfY/xabyDVOdL9YUUWXo7YncmO_FcTojQB9qgCLcBGAsYHQ/s1600/reglaj_luna.jpg)
