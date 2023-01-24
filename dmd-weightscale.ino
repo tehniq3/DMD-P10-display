@@ -39,9 +39,9 @@
 /*--------------------------------------------------------------------------------------
   Includes
 --------------------------------------------------------------------------------------*/
-#include <SPI.h>        //SPI.h must be included as DMD is written by SPI (the IDE complains otherwise)
-#include <DMD.h>        //
-#include <TimerOne.h>   //
+#include <SPI.h>        // SPI.h must be included as DMD is written by SPI (the IDE complains otherwise)
+#include <DMD.h>        // https://github.com/freetronics/DMD
+#include <TimerOne.h>   // https://github.com/PaulStoffregen/TimerOne
 //#include "SystemFont5x7.h"
 //#include "Arial_black_16.h"
 #include "Arial14.h"
@@ -57,7 +57,7 @@ DMD dmd(DISPLAYS_ACROSS, DISPLAYS_DOWN);
  *https://github.com/aguegu/ardulibs/tree/3cdb78f3727d9682f7fd22156604fc1e4edd75d1/hx711
  *adapted by Nicu FLORICA (niq_ro) for 200kg scale cell
  */
-#include <hx711.h>
+#include <hx711.h>  // all libraries can be fund at https://github.com/tehniq3/DMD-P10-display/tree/master/libraries
 Hx711 scale(A2, A3);
 // Hx711.DOUT - pin #A2
 // Hx711.SCK - pin #A3
